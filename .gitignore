@@ -1,0 +1,70 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# 虚拟环境
+venv/
+.venv/
+env/
+miniconda3/
+
+# 数据集和视频
+data/
+dataset/
+datasets/
+UCF-101/
+UCF101/
+hmdb51/
+kinetics*/
+Kinetics*/
+sthv2/
+*.avi
+*.mp4
+*.mkv
+*.mov
+
+# 压缩包
+*.rar
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.tgz
+*.sq
+
+# 模型、数组和训练结果
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.npz
+*.npy
+checkpoints/
+checkpoint/
+weights/
+runs/
+outputs/
+logs/
+wandb/
+
+# 日志和临时文件
+*.log
+*.tmp
+
+# 编辑器和系统文件
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 密钥和配置
+.env
+.env.*
+*.pem
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub

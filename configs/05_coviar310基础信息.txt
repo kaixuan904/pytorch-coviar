@@ -1,0 +1,6 @@
+===== coviar310 基础信息 =====
+Python 路径: /home/srtp/miniconda3/envs/coviar310/bin/python
+Python 3.10.20
+
+pip 路径: /home/srtp/miniconda3/envs/coviar310/bin/pip
+pip 26.0.1 from /home/srtp/miniconda3/envs/coviar310/lib/python3.10/site-packages/pip (python 3.10)
